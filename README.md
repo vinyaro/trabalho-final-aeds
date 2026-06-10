@@ -1,12 +1,8 @@
 # Trabalho Final de Algoritmo e Estrutura de Dados(AEDS)
 
-```python
-# Let's generate a beautiful README.md file using python code.
-# The user wants a README.md for the "Agenda Telefônica com Busca Otimizada" project based on the uploaded contents.
+## Agenda Telefônica com Busca Otimizada 📞
 
-readme_content = """# Agenda Telefônica com Busca Otimizada 📞
-
-Este repositório contém o projeto final desenvolvido para a disciplina de **Algoritmos e Estruturas de Dados (AEDS)**, sob a orientação da **Professora Camille Braga Nader**. O objetivo principal é consolidar de forma integrada os conceitos de gerenciamento de memória dinâmica e o acoplamento sinérgico de múltiplas estruturas de dados heterogêneas na linguagem C.
+Este repositório contém o projeto final desenvolvido para a disciplina de **Algoritmos e Estruturas de Dados (AEDS)**, sob a orientação da **Professora Camille Nader**. O objetivo principal é consolidar de forma integrada os conceitos de gerenciamento de memória dinâmica e o acoplamento sinérgico de múltiplas estruturas de dados heterogêneas na linguagem C.
 
 O sistema resolve de forma cirúrgica os gargalos de busca sequencial comuns em agendas ingênuas, dividindo as responsabilidades operacionais em um tripé de estruturas interligadas por ponteiros precisos, garantindo eficiência máxima sem qualquer redundância ou duplicidade de dados.
 
